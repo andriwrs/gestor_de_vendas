@@ -1,0 +1,1 @@
+# Definição do modelo de dados para vendas
