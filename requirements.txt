@@ -1,1 +1,15 @@
 # Arquivo contendo as dependências do projeto
+
+Python 3.10.6
+
+pip
+
+PyMongo:
+
+pip install pymongo
+
+pymongo 4.6.3
+
+pip install "pymongo[aws]"
+
+mongodb+srv://andriwrsuperbi:<password>@cluster0.iu5jk2p.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
